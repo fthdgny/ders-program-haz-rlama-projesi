@@ -1,1 +1,2 @@
-# ders-program-haz-rlama-projesi
+# ders-programi-hazirlama-projesi
+Ders ,öğretim elemanı, sınıf ve derslik bilgilerinin el ile girildiği ardından random olarak ders programı tanımlanan bir sistemdir.
